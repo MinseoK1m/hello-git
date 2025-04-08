@@ -2,5 +2,5 @@
 def sayHello(name):
     return 'Hello, ' + name + '!' + '!'
 
-inName = 'Tom'
+inName = 'Tom ming'
 print(sayHello(inName))
